@@ -1,0 +1,30 @@
+UserID: 6085912628 | Time: 2024-07-02 09:09:30.262603 | Command: /bgmi | Target: 20.235.54.175 | Port: 27162 | Time: 200
+Username: @ITS_BAWA
+Target: 20.235.54.175
+Port: 27162
+Time: 200
+
+UserID: 6085912628 | Time: 2024-07-04 15:35:38.049510 | Command: /bgmi | Target: 20.198.78.217 | Port: 13992 | Time: 200
+Username: @ITS_BAWA
+Target: 20.198.78.217
+Port: 13992
+Time: 200
+
+UserID: 6085912628 | Time: 2024-07-04 15:45:25.907879 | Command: /bgmi | Target: 52.172.232.212 | Port: 19175 | Time: 300
+Username: @ITS_BAWA
+Target: 52.172.232.212
+Port: 19175
+Time: 300
+
+UserID: 6085912628 | Time: 2024-07-04 15:58:24.330934 | Command: /bgmi | Target: 4.213.66.124 | Port: 24691 | Time: 280
+Username: @ITS_BAWA
+Target: 4.213.66.124
+Port: 24691
+Time: 280
+
+UserID: 6085912628 | Time: 2024-07-04 16:42:21.700367 | Command: /bgmi | Target: 20.204.179.71 | Port: 28513 | Time: 300
+Username: @ITS_BAWA
+Target: 20.204.179.71
+Port: 28513
+Time: 300
+
